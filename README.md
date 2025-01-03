@@ -1,8 +1,13 @@
 # 🌟 Project: Business Insights 360
 
-## 🌐 View My Live Dashboard
+## 🌐 View My Live Dashboard  
 [![Power BI Dashboard](https://img.shields.io/badge/PowerBI-Dashboard-blue?style=flat-square&logo=Power-BI&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZjk4YWM1MGItMGJiYi00ZDk5LTkzNzEtODdmZjc4NjQwZGU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=aa294fe23e2b5cd4929f)  
-*Explore dynamic insights and interactive visualizations.*
+
+✨ **Explore dynamic insights and interactive visualizations.**  
+
+👉 **[Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjk4YWM1MGItMGJiYi00ZDk5LTkzNzEtODdmZjc4NjQwZGU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=aa294fe23e2b5cd4929f)**  
+
+---  
 
 ---
 
@@ -98,7 +103,7 @@ This project analyzes business data to generate actionable insights using **SQL*
 ### 🛠️ Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yaravind007/-Business-Insights-360.git
+   [git clone https://github.com/yaravind007/-Business-Insights-360.git](https://github.com/yaravind007/Business-Insights-360.git)
 2. Load data into MySQL:
 
 3. Import the provided .sql files from the sql/ folder to create the database and tables.
@@ -115,7 +120,8 @@ Publish the dashboard to Power BI Service and share the link with stakeholders.
 ### 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-### 🙌 Acknowledgments
-Special thanks to the ![CodeBasics Platform](https://codebasics.io/) mentors and team support enhanced me to generate new ideas.
+## 🙌 Acknowledgments  
+Special thanks to the mentors and team at [CodeBasics Platform](https://codebasics.io/) for their invaluable support and guidance, which have inspired me to develop new ideas.  
+
 
 Thank you for exploring this project! 🎉
